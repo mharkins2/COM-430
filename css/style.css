@@ -251,3 +251,8 @@ div.desc {
 #row2{
   display: flex;
 }
+
+/* Create User Form */
+.createuser-form{
+	margin: 30px;
+}

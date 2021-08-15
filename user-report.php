@@ -63,8 +63,7 @@
           </div>
           <a href="gallery.php">Gallery</a>
 		  
-		  <a href="createuser.php">Create User</a>
-          <a href="login.php">Log In</a>
+
 
         </div>
       </div>
