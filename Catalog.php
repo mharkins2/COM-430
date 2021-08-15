@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="CorpGrowth Company Portal for Internal Employee Access">
     <meta name="author" content="Matthew Harkins & Durelle Maynard">
-    <title>CorpGrowth Portal | Catalog</title>
+    <title>CorpGrowth Portal | Home</title>
     <link rel="stylesheet" href="./css/style.css">
   </head>
   <body>
@@ -31,8 +31,8 @@
     <nav>
       <div class="container">
         <div class="navbar">
-          <a href="index.html">Home</a>
-          <a href="faq.html">FAQ</a>
+          <a href="index.php">Home</a>
+          <a href="faq.php">FAQ</a>
           <div class="dropdown">
             <button class="dropbtn">HR
               <i class="fa fa-caret-down"></i>
@@ -47,9 +47,9 @@
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-              <a href="openrequests.html">Open Request</a>
-              <a href="catalog.html">Catalog</a>
-              <a href="support-view.html">Support View</a>
+              <a href="openrequests.php">Open Request</a>
+              <a href="catalog.php">Catalog</a>
+              <a href="support-view.php">Support View</a>
             </div>
           </div>
           <div class="dropdown">
@@ -57,11 +57,12 @@
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-              <a href="user-report.html">Reports</a>
-              <a href="report-creator.html">Report Creator</a>
+              <a href="user-report.php">Reports</a>
+              <a href="report-creator.php">Report Creator</a>
             </div>
           </div>
-          <a href="gallery.html">Gallery</a>
+          <a href="gallery.php">Gallery</a>
+
 
         </div>
       </div>
